@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+
+body{
+	position: relative; 
+}
+
+.text{
+	color: white; 
+}
+
+#carouselExampleControls{
+	max-width: 800px;
+	margin: auto;
+}
+
+#gallery{
+	margin-top: 10rem;
+}
+
+#gallery .row{
+	margin: 0; 
+}
+
+#gallery .col-sm{
+	padding: 0; 
+}
+  
+#modal{
+	margin-top: 10rem;
+}
+
+#modal .row{
+	margin: 0; 
+}
+
+#modal .col-sm{
+	padding: 0; 
+}
